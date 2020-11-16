@@ -1,0 +1,17 @@
+.bkl{
+    width: 100%;
+    margin: none;
+    border: none;
+}
+body{
+    margin: none;
+    padding: none;
+}
+.txt{
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+}
